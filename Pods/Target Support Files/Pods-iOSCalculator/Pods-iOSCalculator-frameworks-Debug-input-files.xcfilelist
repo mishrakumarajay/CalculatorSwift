@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-iOSCalculator/Pods-iOSCalculator-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Expression/Expression.framework
+${BUILT_PRODUCTS_DIR}/TPKeyboardAvoiding/TPKeyboardAvoiding.framework

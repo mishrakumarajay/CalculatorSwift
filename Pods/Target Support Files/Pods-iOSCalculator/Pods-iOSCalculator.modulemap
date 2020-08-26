@@ -1,0 +1,6 @@
+framework module Pods_iOSCalculator {
+  umbrella header "Pods-iOSCalculator-umbrella.h"
+
+  export *
+  module * { export * }
+}
